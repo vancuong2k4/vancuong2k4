@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=vancuong2k4&color=5865F2&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://views.igorkowalczyk.dev/api/badge/vancuong2k4?style=flat&color=5865F2&label=PROFILE+VIEWS" alt="Views" />
 </div>
 
 <br/>
@@ -35,7 +35,7 @@ const vancuong2k4 = {
 
 <div align="center">
   <!-- GITHUB OVERVIEW STATS -->
-  <img src="https://github-readme-stats.vercel.app/api/username=vancuong2k4&show_icons=true&theme=dark&hide_border=true&bg_color=09090b" alt="vancuong2k4 Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vancuong2k4&show_icons=true&theme=dark&hide_border=true&bg_color=09090b" alt="vancuong2k4 Stats" width="60%" />
 </div>
 
 <br/>
