@@ -1,20 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=09090b&height=140&section=header&text=Tran%20Van%20Cuong%20(%20vancuong2k4%20)&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=twinkling)](#)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=09090b&height=140&section=header&text=Tran%20Van%20Cuong%20(%20vancuong2k4%20)&fontSize=28&fontColor=ffffff&fontAlignY=38)](#)
 
 <div align="center">
-  
   <!-- PROFILE VIEWS -->
   <img src="https://komarev.com/ghpvc/?username=vancuong2k4&color=09090b&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  
-  <br/><br/>
-  
-  <!-- PORTFOLIO & CONTACT BADGES -->
-  <a href="https://vancuong-official.id.vn" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Website_Portfolio-vancuong--official.id.vn-black?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="mailto:cuongtran190404@gmail.com">
-    <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email_Me-cuongtran190404@gmail.com-zinc?style=for-the-badge" />
-  </a>
-  
 </div>
 
 <br/>
