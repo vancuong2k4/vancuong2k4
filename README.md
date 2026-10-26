@@ -19,25 +19,6 @@ const vancuong2k4 = {
 };
 ```
 
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <!-- GITHUB STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancuong2k4&theme=dark&hide_border=true&background=09090b" alt="GitHub Streak" width="49%" />
-  
-  <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancuong2k4&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=09090b" alt="Top Languages" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GITHUB OVERVIEW STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vancuong2k4&show_icons=true&theme=dark&hide_border=true&bg_color=09090b" alt="vancuong2k4 Stats" width="60%" />
-</div>
-
 <br/>
 
 <!-- FOOTER BANNER -->
