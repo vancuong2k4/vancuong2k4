@@ -20,6 +20,22 @@ const vancuong2k4 = {
 };
 ```
 
+---
+
+### 💻 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancuong2k4&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=09090b" alt="Top Languages" />
+</div>
+
+<br/>
+
+### 🛠️ Languages & Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,react,nextjs,nodejs,tailwind,postgres,docker,git" alt="Languages & Technologies" />
+</div>
+
 <br/>
 
 <!-- FOOTER BANNER -->
