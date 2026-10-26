@@ -22,4 +22,4 @@ const vancuong2k4 = {
 <br/>
 
 <!-- FOOTER BANNER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=Thanks%20for%20stopping%20by!%20Have%20a%20great%20day%20%E2%9C%A8&fontSize=20&fontColor=fff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=Thanks%20for%20stopping%20by!%20Have%20a%20great%20day!&fontSize=20&fontColor=fff)
