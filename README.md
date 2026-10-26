@@ -12,6 +12,7 @@
 const vancuong2k4 = {
   name: "Trần Văn Cường",
   role: "Full-Stack & Mobile Developer",
+  education: "Đại học Văn Hiến (VHU)",
   location: "TP. Hồ Chí Minh, Việt Nam",
   website: "https://vancuong-official.id.vn",
   techStack: ["React", "Next.js", "React Native", "Node.js", "TypeScript", "Tailwind CSS"],
