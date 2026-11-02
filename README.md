@@ -11,10 +11,10 @@
 ```javascript
 const vancuong2k4 = {
   name: "Trần Văn Cường",
-  role: "Full-Stack & Mobile Developer",
+  role: "Full-Stack Developer",
   education: "Đại học Văn Hiến (VHU)",
   location: "TP. Hồ Chí Minh, Việt Nam",
-  website: "https://vancuong-official.id.vn",
+  website: "https://www.vancuong-official.id.vn",
   techStack: ["React", "Next.js", "React Native", "Node.js", "TypeScript", "Tailwind CSS"],
   philosophy: "Clean code, high performance and seamless user experience."
 };
@@ -25,7 +25,7 @@ const vancuong2k4 = {
 ### 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancuong2k4&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=09090b" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vancuong2k4&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=09090b" alt="Top Languages" />
 </div>
 
 <br/>
