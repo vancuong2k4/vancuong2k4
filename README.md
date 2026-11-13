@@ -25,7 +25,7 @@ const vancuong2k4 = {
 ### 🔥 GitHub Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vancuong2k4&theme=dark&hide_total_contributions=true&background=135,09090b,141419,1e1b4b&border=5865F2&border_radius=14&stroke=2e2e38&ring=5865F2&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=5865F2&sideNums=ffd700&sideLabels=f59e0b&dates=818cf8" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=vancuong2k4&theme=dark&hide_total_contributions=true&background=135,09090b,180f12,3b0712&border=EF4444&border_radius=14&stroke=3b1219&ring=EF4444&fire=FF3838&currStreakNum=ffffff&currStreakLabel=EF4444&sideNums=FFD700&sideLabels=FCA5A5&dates=F87171" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
